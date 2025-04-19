@@ -1,5 +1,6 @@
 ### Hi，I'm Jeffrey Li，
-An undergraduate student at HUAT, majoring in software engineering，
+I majored in software engineering,
+and now I am an in-vehicle testing engineer, 
 interested in C++, ROS, and Java.
 
 
